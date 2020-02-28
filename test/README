@@ -1,0 +1,14 @@
+
+  System to sort brass by headstamp
+
+   Demonstration of the basic components to sort brass by headstamp include:
+    - Stepper motor to move cases along a track
+    - Camera interface (JeVois) to identify headstamps
+    - Servo to move gates to sort selected items
+
+    Components
+    - Arduino Mega
+    - Stepper Motor and controller
+    - JeVois camera
+    - Servo
+    - LCD -  http://wiki.sunfounder.cc/index.php?title=I2C_LCD2004#Step_2:Add_library

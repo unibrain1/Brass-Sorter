@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/jimboone/Documents/PlatformIO/Projects/Brass Sorter"
+		},
+		{
+			"path": "/Users/jimboone/Documents/PlatformIO/Projects/LCD_Test"
+		},
+		{
+			"path": "/Users/jimboone/Documents/PlatformIO/Projects/Serial_Test"
+		},
+		{
+			"name": "Camera Test",
+			"path": "/Users/jimboone/Documents/PlatformIO/Projects/Camera Test"
+		}
+	],
+	"settings": {}
+}
